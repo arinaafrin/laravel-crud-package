@@ -1,7 +1,7 @@
 {
     "name": "afrin/crud-generate",
     "description": "A simple CRUD generate by modal name",
-    "version": "1.0.0",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Afrin\\CrudGenerator\\": "src/"

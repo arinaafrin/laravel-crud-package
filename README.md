@@ -1,5 +1,5 @@
 # laravel-crud-package
-A simplecrud generator for Laravel eloquent model.
+A simple crud generator for Laravel eloquent model.
 
 ---
 
